@@ -1,0 +1,11 @@
+C:\Users\Trbry\Documents\GitHub\Floyd\bin\Debug\Floyd.exe.config
+C:\Users\Trbry\Documents\GitHub\Floyd\bin\Debug\Floyd.exe
+C:\Users\Trbry\Documents\GitHub\Floyd\bin\Debug\Floyd.pdb
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.Properties.Resources.resources
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.csproj.GenerateResource.cache
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.csproj.CoreCompileInputs.cache
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.exe
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.pdb
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.csprojAssemblyReference.cache
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.BuildView.resources
+C:\Users\Trbry\Documents\GitHub\Floyd\obj\Debug\Floyd.Resolve.resources

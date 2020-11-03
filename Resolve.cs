@@ -92,6 +92,7 @@ namespace Floyd
                     if (letters[i] == orig)
                         o = i;
                 }
+
                 txtCusto.Text = this.distance[o][d].ToString();
                 string path = orig + " -> ";
                 int x = o;
@@ -104,8 +105,8 @@ namespace Floyd
                     }
                     else
                     {
-                        x = this.solution[x][d];
-                        path += letters[x - 1] + " -> ";
+                        x = this.solution[x][d] - 1;
+                        path += letters[x] + " -> ";
                     }
                 } while (x != 0);
                 txtPath.Text = path;
